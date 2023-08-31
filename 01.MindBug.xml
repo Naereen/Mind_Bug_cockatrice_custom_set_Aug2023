@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+<!-- https://github.com/Cockatrice/Cockatrice/wiki/Custom-Cards-&-Sets#custom-card-databases-by-the-community -->
+    <sets>
+        <set>
+            <name>MB1</name>
+            <longname>Cards from the base box of Mind Bug (2023)</longname>
+            <settype>Custom</settype>
+            <releasedate>2023-08-31</releasedate>
+        </set>
+    </sets>
+    <cards>
+        <card>
+            <name>Chameleon sniper</name>
+            <text>SNEAKY
+*Attack:* The opponent loses a life point
+            </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Creature</type>
+                <!-- <maintype></maintype> -->
+                <!-- <manacost></manacost> -->
+                <!-- <cmc></cmc> -->
+                <!-- <colors></colors> -->
+                <!-- <coloridentity></coloridentity> -->
+                <pt>1/1</pt>
+                <!-- <loyalty>1</loyalty> -->
+                <!-- <format-standard>legal</format-standard> -->
+            </prop>
+            <set rarity="common" uuid="TODO:" num="1" muid="TODO:" picurl="https://perso.crans.org/besson/publis/Mind_Bug_cockatrice_custom_set_Aug2023.git/imgs/Chameleon_sniper.png">MB1</set>
+            <!-- <related>Another card name</related> -->
+            <!-- <reverse-related>Another card name</reverse-related> -->
+            <!-- <token>1</token> -->
+            <tablerow>2</tablerow>
+            <!-- <cipt>1</cipt> -->
+            <!-- <upsidedown>1</upsidedown> -->
+            </card>
+    </cards>
+</cockatrice_carddatabase>
